@@ -1,0 +1,13 @@
+{
+  "name": "hm/custom-table-engine",
+  "description": "Development tooling for HM Custom Table Engine",
+  "type": "project",
+  "require-dev": {
+    "wp-coding-standards/wpcs": "^3.0"
+  },
+  "config": {
+    "allow-plugins": {
+      "dealerdirect/phpcodesniffer-composer-installer": true
+    }
+  }
+}
